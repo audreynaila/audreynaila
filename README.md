@@ -53,12 +53,12 @@ Design
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=white)
 
- <!-- GitHub Stats -->
+<!-- GitHub Stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_title=true&count_private=true&hide=prs&hide_border=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=audreynaila&show_icons=true&hide_title=true&count_private=true&hide=prs&hide_border=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=audreynaila&layout=compact&hide_border=true&theme=radical" />
 </a>
 
 
