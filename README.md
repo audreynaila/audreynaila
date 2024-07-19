@@ -53,9 +53,9 @@ Design
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=white)
 
-<!-- GitHub Stats -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=audreynaila&show_icons=true&hide_title=true&hide=prs&hide_border=true&theme=radical" />
+<!-- GitHub Activity -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://activity-graph.herokuapp.com/graph?username=audreynaila&theme=radical" />
 </a>
 
 
