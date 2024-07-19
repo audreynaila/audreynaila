@@ -9,7 +9,7 @@
 
 Hello! I am a Computer Science student passionate about Data Science, Machine Learning, and UI/UX Design. I enjoy collecting, analyzing, and visualizing data to derive insights and build models for real-world problems. Skilled in Python, Java, SQL, TensorFlow, scikit-learn, Pandas, and NumPy, I also have experience in UI/UX design with Figma and Adobe XD. Proficient in PostgreSQL, MySQL, Git, GitHub, Google Cloud Platform, and Docker, I am eager to learn and tackle new challenges through continuous project work.
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fmemoji--311452130490792494%2F&psig=AOvVaw3gWbYmcYQZnVQcCi4V6-ze&ust=1721477286131000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCJi0vOSIs4cDFQAAAAAdAAAAABAT" alt="Me" style="float: right; width: 150px; margin-left: 20px;"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Femojis.sh%2Femoji%2Fwoman-with-pale-skin-and-brown-long-hair-hiding-behind-a-very-large-laptop-eApzB5SvcF&psig=AOvVaw3gWbYmcYQZnVQcCi4V6-ze&ust=1721477286131000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCJi0vOSIs4cDFQAAAAAdAAAAABAd" alt="Me" style="float: right; width: 150px; margin-left: 20px;"/>
 
 
 </td>
