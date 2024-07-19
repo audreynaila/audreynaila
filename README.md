@@ -4,7 +4,13 @@
 
 </div>
 
-<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fmemoji--311452130490792494%2F&psig=AOvVaw3gWbYmcYQZnVQcCi4V6-ze&ust=1721477286131000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCJi0vOSIs4cDFQAAAAAdAAAAABAT" width="150"/>
+<td>
+
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fmemoji--311452130490792494%2F&psig=AOvVaw3gWbYmcYQZnVQcCi4V6-ze&ust=1721477286131000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCJi0vOSIs4cDFQAAAAAdAAAAABAT" alt="Me" style="float: right; width: 150px;"/>
+
+</td>
+</tr>
+</table>
 
 # 👩🏻‍💻 About Me
 
