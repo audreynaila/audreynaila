@@ -36,6 +36,7 @@ Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
+
 AI/ML
 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
@@ -54,17 +55,21 @@ Design
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=white)
 
 
+# 💡 My Contribution
+
+![GitHub Snake Dark](https://github.com/audreynaila/audreynaila/blob/output/github-contribution-grid-snake-dark.svg)
+
+
 # 💫 Stats 
 
-
-<!-- Most Used Languages -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=audreynaila&layout=compact&hide_border=true&theme=radical" />
-</a>
-
-
 <!-- GitHub Streak -->
-<a href="https://github.com/denberg/streak-stats">
-  <img align="center" src="https://streak-stats.demolab.com/?user=audreynaila&theme=radical" />
-</a>
+<p align="center">
+  <a href="https://github.com/denberg/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=audreynaila&theme=radical" />
+  </a>
+</p>
+
+
+
+
 
