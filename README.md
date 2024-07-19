@@ -4,14 +4,9 @@
 
 </div>
 
-<div style="display: flex; align-items: center;">
-  <img src="https://i.pinimg.com/originals/70/8d/f8/708df807416f14743bb08ffee72cd544.png" alt="Me" style="width: 150px; margin-right: 20px;"/>
-  <div>
-    # 👩🏻‍💻 About Me
+# 👩🏻‍💻 About Me
 
-    Hello! I am a Computer Science student passionate about Data Science, Machine Learning, and UI/UX Design. I enjoy collecting, analyzing, and visualizing data to derive insights and build models for real-world problems. Skilled in Python, Java, SQL, TensorFlow, scikit-learn, Pandas, and NumPy, I also have experience in UI/UX design with Figma and Adobe XD. Proficient in PostgreSQL, MySQL, Git, GitHub, Google Cloud Platform, and Docker, I am eager to learn and tackle new challenges through continuous project work.
-  </div>
-</div>
+Hello! I am a Computer Science student passionate about Data Science, Machine Learning, and UI/UX Design. I enjoy collecting, analyzing, and visualizing data to derive insights and build models for real-world problems. Skilled in Python, Java, SQL, TensorFlow, scikit-learn, Pandas, and NumPy, I also have experience in UI/UX design with Figma and Adobe XD. Proficient in PostgreSQL, MySQL, Git, GitHub, Google Cloud Platform, and Docker, I am eager to learn and tackle new challenges through continuous project work.
 
 
 # 🌐 Social
@@ -59,7 +54,7 @@ Design
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=white)
 
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=audreynaila&show_icons=true&locale=en" alt="audreynaila" /></p>
 
 
 
