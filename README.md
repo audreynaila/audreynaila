@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏻 , I'm Audrey Naila Putri</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F5F1&width=435&lines=Hello+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Audrey+Naila+Putri" alt="Typing SVG" /></a>
 <h3 align="center">Data Enthusiast with a Passion for Machine Learning Development</h3>
 
 <h3 align="left">Connect with me:</h3>
