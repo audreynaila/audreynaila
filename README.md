@@ -4,7 +4,7 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://emojis.sh/emoji/woman-with-pale-skin-and-brown-long-hair-hiding-behind-a-very-large-laptop-eApzB5SvcF">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/70/8d/f8/708df807416f14743bb08ffee72cd544.png">
 
 # 👩🏻‍💻 About Me
 
