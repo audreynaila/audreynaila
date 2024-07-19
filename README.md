@@ -11,7 +11,9 @@ Hello! I am a Computer Science student passionate about Data Science, Machine Le
 
 # 🌐 Social
 
-[![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/c/c9/LinkedIn_icon.svg)](https://www.linkedin.com/in/yourprofile)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/yourusername)
 
 
 
