@@ -4,8 +4,8 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://id.pinterest.com/pin/311452130490792494/">
 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Femojis.sh%2Femoji%2Fwoman-with-pale-skin-and-brown-long-hair-hiding-behind-a-very-large-laptop-eApzB5SvcF&psig=AOvVaw3gWbYmcYQZnVQcCi4V6-ze&ust=1721477286131000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCJi0vOSIs4cDFQAAAAAdAAAAABAd" alt="Me" style="float: right; width: 150px; margin-left: 20px;"/>
 
 
 # 👩🏻‍💻 About Me
