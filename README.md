@@ -54,10 +54,6 @@ Design
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=white)
 
 
-![snake gif](https://github.com/audreynaila/audreynaila/blob/output/github-contribution-grid-snake.gif)
-
-
-
 # 💫 Stats 
 
 
