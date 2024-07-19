@@ -54,7 +54,7 @@ Design
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=white)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=audreynaila&show_icons=true&locale=en" alt="audreynaila" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=audreynaila&show_icons=true&title_color=0a0006&text_color=f2eded&locale=en&layout=compact" alt="audreynaila" /></p>
 
 
 
