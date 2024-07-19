@@ -5,7 +5,7 @@
 </div>
 
 
-<img src="https://i.pinimg.com/originals/70/8d/f8/708df807416f14743bb08ffee72cd544.png" alt="Me" style="float: right; width: 150px; margin-left: 20px;"/>
+<img src="https://i.pinimg.com/originals/70/8d/f8/708df807416f14743bb08ffee72cd544.png" alt="Me" style="float: right; width: 150px; margin-left: 50px;"/>
 
 # 👩🏻‍💻 About Me
 
