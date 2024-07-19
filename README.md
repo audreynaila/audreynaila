@@ -64,11 +64,6 @@ Design
 </a>
 
 
-<!-- GitHub Stats Weekly -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=audreynaila&theme=radical" />
-</a>
-
 <!-- GitHub Streak -->
 <a href="https://github.com/denberg/streak-stats">
   <img align="center" src="https://streak-stats.demolab.com/?user=audreynaila&theme=radical" />
