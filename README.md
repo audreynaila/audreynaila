@@ -4,18 +4,13 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/70/8d/f8/708df807416f14743bb08ffee72cd544.png">
+<img align="right" alt="Coding" width="400" src="https://id.pinterest.com/pin/311452130490792494/">
+
+
 
 # 👩🏻‍💻 About Me
 
 Hello! I am a Computer Science student passionate about Data Science, Machine Learning, and UI/UX Design. I enjoy collecting, analyzing, and visualizing data to derive insights and build models for real-world problems. Skilled in Python, Java, SQL, TensorFlow, scikit-learn, Pandas, and NumPy, I also have experience in UI/UX design with Figma and Adobe XD. Proficient in PostgreSQL, MySQL, Git, GitHub, Google Cloud Platform, and Docker, I am eager to learn and tackle new challenges through continuous project work.
-
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Femojis.sh%2Femoji%2Fwoman-with-pale-skin-and-brown-long-hair-hiding-behind-a-very-large-laptop-eApzB5SvcF&psig=AOvVaw3gWbYmcYQZnVQcCi4V6-ze&ust=1721477286131000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCJi0vOSIs4cDFQAAAAAdAAAAABAd" alt="Me" style="float: right; width: 150px; margin-left: 20px;"/>
-
-
-</td>
-</tr>
-</table>
 
 
 # 🌐 Social
