@@ -1,6 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F7F6F1&width=435&lines=HI+%F0%9F%91%8B%F0%9F%8F%BB+%2C+I+am+Audrey+Naila+Putri)](https://git.io/typing-svg)
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7F6F1&width=435&lines=HI%F0%9F%91%8B%F0%9F%8F%BB+%2C+I+am+Audrey+Naila+Putri)](https://git.io/typing-svg)
 
+<div>
+  
 <h3 align="center">Data Enthusiast with a Passion for Machine Learning Development</h3>
 
 <h3 align="left">Connect with me:</h3>
