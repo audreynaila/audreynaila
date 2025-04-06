@@ -6,7 +6,7 @@
 
 # 👩🏻‍💻 About Me
 
-Hello! I am a Computer Science student passionate about Data and Machine Learning.I enjoy working with data from preprocessing and analysis to building predictive models that solve real-world problems. I’m skilled in Python, SQL, scikit-learn, TensorFlow, Pandas, and NumPy, with hands-on experience in building ML pipelines and data visualizations. I also work with PostgreSQL, MySQL, Git, GitHub, Google Cloud Platform, and Docker. Passionate about continuous learning, I thrive on solving challenges through impactful data-driven projects..
+Hello! I am a Computer Science student passionate about Data and Machine Learning.I enjoy working with data from preprocessing and analysis to building predictive models that solve real-world problems. I’m skilled in Python, SQL, scikit-learn, TensorFlow, Pandas, and NumPy, with hands-on experience in building ML pipelines and data visualizations. I also work with PostgreSQL, MySQL, Git, GitHub, Google Cloud Platform, and Docker. Passionate about continuous learning, I thrive on solving challenges through impactful data-driven projects.
 
 
 # 🌐 Social
