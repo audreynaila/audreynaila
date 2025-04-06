@@ -6,7 +6,7 @@
 
 # 👩🏻‍💻 About Me
 
-Hello! I am a Computer Science student passionate about Data and Machine Learning. I enjoy collecting, analyzing, and visualizing data to derive insights and build models for real-world problems. Skilled in Python, Java, SQL, TensorFlow, scikit-learn, Pandas, and NumPy, I also have experience in UI/UX design with Figma and Adobe XD. Proficient in PostgreSQL, MySQL, Git, GitHub, Google Cloud Platform, and Docker, I am eager to learn and tackle new challenges through continuous project work.
+Hello! I am a Computer Science student passionate about Data and Machine Learning.I enjoy working with data from preprocessing and analysis to building predictive models that solve real-world problems. I’m skilled in Python, SQL, scikit-learn, TensorFlow, Pandas, and NumPy, with hands-on experience in building ML pipelines and data visualizations. I also work with PostgreSQL, MySQL, Git, GitHub, Google Cloud Platform, and Docker. Passionate about continuous learning, I thrive on solving challenges through impactful data-driven projects..
 
 
 # 🌐 Social
